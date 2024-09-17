@@ -1,4 +1,4 @@
-module github.com/pion/sdp/v3
+module github.com/shinecrazy/sdp/v3
 
 go 1.20
 
